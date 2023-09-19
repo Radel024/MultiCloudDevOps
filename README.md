@@ -27,14 +27,20 @@ Project to display the use of a multi-cloud architecture with GCP and Azure to c
 
 <p align="center">
 
+<h2>Misson 1:</h2>
+
 <br />![Active use of SLiver session in windows VM 1]()
 <br />
 
 <br />![STUCK_STEW]()
 <br />
 
+<h2>Mission 2:</h2>
+
 <br />![ISASS DETECTION 3]()
 <br />
+
+<h2>Mission 3:</h2>
 
 <br />![Lsaas Rule]()
 <br />
