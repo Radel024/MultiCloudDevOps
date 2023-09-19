@@ -29,29 +29,26 @@ Project to display the use of a multi-cloud architecture with GCP and Azure to c
 
 <h2>Misson 1:</h2>
 
-<br />![Active use of SLiver session in windows VM 1]()
-<br />
+<br />![Screenshot (184)](https://github.com/Radel024/MultiCloudDevOps/assets/137848295/aa53a57d-a9e6-4d90-a0bc-6aa066873e36)
+<br />![Screenshot (182)](https://github.com/Radel024/MultiCloudDevOps/assets/137848295/df971c8e-420e-4a01-82fa-245a0d2b80c7)
+<br />![Screenshot (181)](https://github.com/Radel024/MultiCloudDevOps/assets/137848295/35baebe1-1959-4a26-8c57-53086675ed97)
 
-<br />![STUCK_STEW]()
 <br />
 
 <h2>Mission 2:</h2>
 
-<br />![ISASS DETECTION 3]()
-<br />
+<br />![Screenshot (189)](https://github.com/Radel024/MultiCloudDevOps/assets/137848295/c964c622-3b1b-4fc8-9961-fc936023c54a)
+<br />![Screenshot (188)](https://github.com/Radel024/MultiCloudDevOps/assets/137848295/738873f9-48aa-4168-aae0-a117000978cd)
+<br />![Screenshot (186)](https://github.com/Radel024/MultiCloudDevOps/assets/137848295/7fb83ff2-6896-4b1c-b5c1-bdd73b8081f5)
+
 
 <h2>Mission 3:</h2>
 
-<br />![Lsaas Rule]()
-<br />
+<br />![Screenshot (191)](https://github.com/Radel024/MultiCloudDevOps/assets/137848295/9f9d0d9e-30de-4376-89c8-6aaa8514806c)
+<br />![Screenshot (190)](https://github.com/Radel024/MultiCloudDevOps/assets/137848295/74144fd5-e511-4425-a2bc-2c8b0472815e)
 
-<br />![detection 2]()
-<br />
 
-<br />![Silver C2 Implant]()
 <br />
-
-<br />![DetectionRuleSuccess 4]()
 <br />
 
 <!--
