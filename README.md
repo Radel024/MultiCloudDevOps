@@ -4,9 +4,9 @@ Multi Cloud Dev Ops
 
 <h2>Description</h2>
 Project to display the use of a multi-cloud architecture with GCP and AZure to create a Luxary Hotel Covide API, done in 3 phases.
-Mission 1: You'll learn how to enable a MultiCloud architecture deployment through Terraform, with resources running in AWS and Google ﻿Cloud Platform
-Mission 2: You'll learn the process to convert a database and an application to run on the MultiCloud architecture (AWS ﻿and ﻿Google Cloud), including Docker and Kubernetes on this path.
-Mission 3: For the final phase, you'll learn how to professionally migrate the application files and data from a database, an essential skill required by several companies in the Cloud migration process
+- <br />Mission 1: You'll learn how to enable a MultiCloud architecture deployment through Terraform, with resources running in AWS and Google ﻿Cloud Platform
+- <br />Mission 2: You'll learn the process to convert a database and an application to run on the MultiCloud architecture (AWS ﻿and ﻿Google Cloud), including Docker and Kubernetes on this path.
+- <br />Mission 3: For the final phase, you'll learn how to professionally migrate the application files and data from a database, an essential skill required by several companies in the Cloud migration process
 <br />
 
 <h2>Languages and Utilities Used</h2>
