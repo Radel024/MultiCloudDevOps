@@ -5,23 +5,26 @@
 <h2>Description</h2>
 Project to display the use of a multi-cloud architecture with GCP and Azure to create a Luxary Hotel Covide API, done in 3 phases.</b>
 <br />
-<br />Mission 1: You'll learn how to enable a MultiCloud architecture deployment through Terraform, with resources running in AWS and Google ﻿Cloud Platform</b>
-<br />Mission 2: You'll learn the process to convert a database and an application to run on the MultiCloud architecture (AWS ﻿and ﻿Google Cloud), including Docker and Kubernetes on this path.</b>
-<br />Mission 3: For the final phase, you'll learn how to professionally migrate the application files and data from a database, an essential skill required by several companies in the Cloud migration process</b>
+<br />Phase 1:<br />
+  You'll learn how to enable a MultiCloud architecture deployment through Terraform, with resources running in AWS and Google ﻿Cloud Platform</b>
+<br />Phase 2:<br />
+  You'll learn the process to convert a database and an application to run on the MultiCloud architecture (AWS ﻿and ﻿Google Cloud), including Docker and Kubernetes on this path.</b>
+<br />Phase 3:<br />
+  For the final phase, you'll learn how to professionally migrate the application files and data from a database, an essential skill required by several companies in the Cloud migration process</b>
 <br />
 
 <h2>Languages and Utilities Used</h2>
 
-- <b>Docker </b>
-- <b>AWS S3 </b>
-- <b>SQL </b>
-- <b>Terraform </b>
+- Docker </b>
+- AWS S3 </b>
+- SQL </b>
+- Terraform </b>
   
 <h2>Environments Used </h2>
 
-- <b>Google Cloud </b>  
-- <b>AWS </b> 
-- <b>kubernetes</b> 
+- Google Cloud </b>  
+- AWS </b> 
+- kubernetes</b> 
 
 <h2>Program walk-through:</h2>
 
