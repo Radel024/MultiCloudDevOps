@@ -32,7 +32,7 @@ Project to display the use of a multi-cloud architecture with GCP and Azure to c
 
 <h2>Misson 1:</h2>
 
-<br />![Screenshot (184)](https://github.com/Radel024/MultiCloudDevOps/assets/137848295/aa53a57d-a9e6-4d90-a0bc-6aa066873e36)
+
 <br />![Screenshot (182)](https://github.com/Radel024/MultiCloudDevOps/assets/137848295/df971c8e-420e-4a01-82fa-245a0d2b80c7)
 <br />![Screenshot (181)](https://github.com/Radel024/MultiCloudDevOps/assets/137848295/35baebe1-1959-4a26-8c57-53086675ed97)
 
